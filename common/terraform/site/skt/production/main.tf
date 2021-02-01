@@ -52,6 +52,7 @@ resource "azurerm_resource_group" "rg_general" {
     "0.0.0.0/32",
 
     // * Beijing
+    "12.3.4.5/32",
 
   ]
 
