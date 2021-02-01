@@ -68,7 +68,6 @@ module "network_general" {
     "0.0.0.0/32",
 
     // * Beijing
-    "1.2.3.4/32",
     "1.2.3.5/32",
 
     // * CF
