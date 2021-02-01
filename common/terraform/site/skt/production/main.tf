@@ -50,6 +50,9 @@ resource "azurerm_resource_group" "rg_general" {
     "0.0.0.0/32",
     "0.0.0.0/32",
     "0.0.0.0/32",
+
+    // * Beijing
+
   ]
 
   destination_application_security_group_ids = []
