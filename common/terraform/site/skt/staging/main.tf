@@ -113,7 +113,6 @@ resource "azurerm_network_security_rule" {
 
     // * Beijing
     "1.200.160.210/32",
-    "152.30.194.248/32",
     "101.230.75.2/32",
   ]
   source_application_security_group_ids = []
